@@ -9,5 +9,5 @@ alias satip='sudo service networking status'
 #debian 10
 #alias resip='sudo systemctl restart networking'
 #alias satip='sudo systemctl status networking'
+#alias conip='sudo nano /etc/network/interfaces'
 #alias saps='sudo systemctl apache2 stop'
-
