@@ -1,0 +1,13 @@
+alias winbox='wine ~/Public/winbox64.exe'
+alias resxa='sudo /opt/lampp/lampp restart'
+
+#ubuntu
+alias saps='sudo service apache2 stop'
+alias resip='sudo service networking restart'
+alias satip='sudo service networking status'
+
+#debian 10
+#alias resip='sudo systemctl restart networking'
+#alias satip='sudo systemctl status networking'
+#alias saps='sudo systemctl apache2 stop'
+
