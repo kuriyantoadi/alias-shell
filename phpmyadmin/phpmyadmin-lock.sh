@@ -1,5 +1,6 @@
 echo "Program Shell"
 echo "Lock dan Unlock phpmyadmin"
+echo "Untuk Debian 10 Buster 32 Bit - Xampp 5.5.28-0"
 echo ""
 echo "Untuk lock phpmyadmin (pilih 1)"
 echo "Untuk unlcok phpmyadmin (pilih 2)"
