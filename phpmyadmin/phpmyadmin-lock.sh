@@ -17,7 +17,7 @@ then
 elif [ 2 = $pilih ]
 then
   sudo rm /opt/lampp/etc/extra/httpd-xampp.conf
-  sudo cp httpd-xampp.conf-unlcok /opt/lampp/etc/extra/
+  sudo cp httpd-xampp.conf-unlock /opt/lampp/etc/extra/
   sudo mv /opt/lampp/etc/extra/httpd-xampp.conf-unlock /opt/lampp/etc/extra/httpd-xampp.conf
   echo "phpmyadmin unlock - berhasil"
   exit 0
